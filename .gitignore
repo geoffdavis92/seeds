@@ -1,0 +1,7 @@
+# seeds ignores... 
+node_modules 
+.DS_Store 
+.sass-cache 
+bower_components 
+*.log 
+*.map*

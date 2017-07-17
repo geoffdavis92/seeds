@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+gem 'sinatra', :github => 'sinatra/sinatra'
+
+# deps
+gem 'haml' # default
+# gem 'kramdown'
+# gem 'liquid'
+gem 'sass'
